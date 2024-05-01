@@ -1,0 +1,12 @@
+.carousel {
+    max-height: 650px;
+    max-width: 450px;
+    overflow: hidden;
+    align-items: center;
+    margin: auto; 
+    display: block;
+}
+.h1 {
+    text-align:center
+    
+}
