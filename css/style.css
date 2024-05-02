@@ -6,7 +6,10 @@
     margin: auto; 
     display: block;
 }
-.h1 {
-    text-align:center
-    
+.heading1 {
+    align-items: center;
+}
+.bg-gradiant {
+    background: rgb(171, 167, 233);
+background: radial-gradient(circle, rgb(194, 207, 241) 0%, rgb(176, 214, 236) 39%, rgb(12, 105, 212) 100%);
 }
